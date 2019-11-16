@@ -12,3 +12,15 @@ The Sun is an almost perfect sphere.
 https://super-search-akashjoshi.flexiple.now.sh/?hero=
 ###### Usage https://super-search-akashjoshi.flexiple.now.sh/?hero=superman
 ###### VF Usage https://super-search-akashjoshi.flexiple.now.sh/?hero={hero}
+
+# Voiceflow India Community
+https://www.facebook.com/groups/701062400414417/
+
+# Voiceflow India Events
+https://commudle.com/voiceflow
+
+# Alexa Delhi Community
+https://www.facebook.com/alexadelhi/
+
+# Alexa Delhi Events
+https://www.meetup.com/Amazon-Alexa-Meetup-NCR/
